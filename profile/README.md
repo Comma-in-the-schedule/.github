@@ -1,7 +1,7 @@
 # Web Application - 스케줄 속 쉼표
 <p align="center">
-  <img width="400" alt="스크린샷 2025-03-22 오후 6 31 39" src="https://github.com/user-attachments/assets/df098f19-cb6f-4656-a81d-4f7f66a1782e" />
-</p>
+  <img width="400" alt="스크린샷 2025-03-22 오후 6 31 39" src="https://github.com/user-attachments/assets/3f05c64b-c140-443a-b1c0-1d1e6d64582b" />
+
 <p align="center">
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white" alt="Spring Boot"/>
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
@@ -46,15 +46,15 @@
 
 | 로딩 화면 | 로그인 화면 | 회원가입 화면 |
 |:--:|:--:|:--:|
-| <img width="200" src="https://github.com/user-attachments/assets/2e5edb1d-304d-465e-bd16-2dc55781c9a9" /> | <img width="200" src="https://github.com/user-attachments/assets/569ed7c4-a2c9-4523-8713-ff51b6ffec6a" /> | <img width="200" src="https://github.com/user-attachments/assets/25aa09e6-7f9a-4196-9672-f040789190af" /> |
+| <img width="200" src="https://github.com/user-attachments/assets/3db31050-aa64-4177-acd7-79cd764dfa31" /> | <img width="200" src="https://github.com/user-attachments/assets/f03de874-5ab2-4aea-889a-359699ade1fd" /> | <img width="200" src="https://github.com/user-attachments/assets/69b88a4d-1811-4a8b-a157-0603cb458e0c" /> |
+
 
 | 설문 조사 화면 | 메인 페이지 | 상세 페이지 |
 |:--:|:--:|:--:|
-| <img width="200" src="https://github.com/user-attachments/assets/536129b6-bf8e-452a-a74c-f28688b24092" /> | <img width="200" src="https://github.com/user-attachments/assets/b1b4b8b5-de96-48a7-a86f-edca29eaba6a" /> | <img width="200" src="https://github.com/user-attachments/assets/4d80b6cd-f832-4132-873c-a016d9eb20a7" /> |
+| <img width="200" src="https://github.com/user-attachments/assets/5a5df607-be83-4bdb-a6fe-03eca8ca03c5" /> | <img width="200" src="https://github.com/user-attachments/assets/26013d45-18d1-49c2-bf50-7c78d0577a0f" /> | <img width="200" src="https://github.com/user-attachments/assets/7fb3132c-9d32-497b-9bf7-9c6aedb54701" /> |
 
 
 ## 🎥 시연 영상
 
-<video src="https://github.com/user-attachments/assets/089f41f6-3853-421f-95d2-3a4dc49ba015" width="600" controls></video>
-
+<video src="https://github.com/user-attachments/assets/af3c217a-4637-4357-aedd-6edb72f741d9" width="600" controls></video>
 
